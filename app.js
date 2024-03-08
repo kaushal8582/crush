@@ -25,52 +25,52 @@ let boxImgIndex = 1;
 const data = [
     {
         shyari: "फिज़ा में महकती शाम हो तुम,प्यार में झलकता ज़ाम हो तुम,सीने में छुपाये फिरते है हम तुम्हारी यादें,इसलिये मेरी जिंदगी का दूसरा नाम हो तुम।", 
-        img: "img/11.webp", 
+        img: "crush2/1.jpg", 
         music: "music/10.mp3"
     }, 
     {
         shyari: "एक तुम ही हो जिसे देख कर, दिल को सुकून मिलता है।", 
-        img: "img/2.jpg", 
+        img: "crush2/2.jpg", 
         music: "music/1.mp3"
     },
     {
         shyari: "कैसे कह दूँ इश्क नहीं है तुमसे, मेरे लिए इश्क का मतलब ही तुम हो !", 
-        img: "img/3.jpg", 
+        img: "crush2/3.jpg", 
         music: "music/2.mp3"
     },
     {
         shyari: "यू तो तैरने में हो गया हूँ माहिर,फिर भी अक्सर डूब जाता ह तुम्हारे ख्यालों में।", 
-        img: "img/4.jpg", 
+        img: "crush2/4.jpg", 
         music: "music/3.mp3"
     }, 
     {
         shyari: "इश्क की अदा बड़ी निराली है गालिब नैनो में बसकर कब दिल में उतर जाए पता नही चलता..!!", 
-        img: "img/5.jpg", 
+        img: "crush2/5.jpg", 
         music: "music/4.mp3"
     },
     {
         shyari: "मैंने जान बचा के रखी है, एक जान के लिए, इतना लव कैसे हो गया, एक अनजान के लिए।", 
-        img: "img/6.jpg", 
+        img: "crush2/6.jpg", 
         music: "music/5.mp3"
     },
     {
         shyari: "गुस्से की दुकान हो आप, पर मेरी जान हो आप।", 
-        img: "img/7.jpg", 
+        img: "crush2/7.jpg", 
         music: "music/6.mp3"
     },
     {
         shyari: "मेरी जिंदगी मेरी जान हो तुम मेरे सुकून का दुसरा नाम हो तुम।", 
-        img: "img/8.jpg", 
+        img: "crush2/8.jpg", 
         music: "music/7.mp3"
     },
     {
         shyari: "इसे पढ़ रही हो तो हा जरुर करना , अगर बात हो हा की तो कोई बात नहीं मगर न हो तो replay जरुर करना .", 
-        img: "img/9.jpg", 
+        img: "crush2/9.jpg", 
         music: "music/8.mp3"
     },
     {
         shyari: "इसे पढ़ रही हो तो हा जरुर करना , अगर बात हो हा की तो कोई बात नहीं मगर न हो तो replay जरुर करना .", 
-        img: "img/10.jpg", 
+        img: "crush2/10.jpg", 
         music: "music/9.mp3"
     },
     
